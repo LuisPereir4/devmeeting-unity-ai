@@ -1,0 +1,20 @@
+{
+    "asset": "213a1ef6a4753d54bb71c8e57cbd683f",
+    "fileName": "0197f413-f809-7971-81c2-07317eb07f59.png",
+    "prompt": "Treasure with a lot of gold inside",
+    "negativePrompt": "",
+    "model": "27e2ba65-9dfb-4fcb-b2f7-29e3295a55cc",
+    "modelName": "Dark Fantasy",
+    "customSeed": -1,
+    "w3CTraceId": "c4eccecfac4c081fdeef05c77c69cec7",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

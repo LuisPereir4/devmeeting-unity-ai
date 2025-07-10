@@ -1,0 +1,11 @@
+{
+    "asset": "c00362743edcba6459dbad757c7ea11c",
+    "fileName": "0197f3f4-a1ac-7706-a31c-c3a00981656f_Preview.png",
+    "prompt": "A material to put in a cube with a cute and furry aesthetic",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 2079901628,
+    "w3CTraceId": "2bab30588e747067490d48077a292933",
+    "refinementMode": "Generation"
+}

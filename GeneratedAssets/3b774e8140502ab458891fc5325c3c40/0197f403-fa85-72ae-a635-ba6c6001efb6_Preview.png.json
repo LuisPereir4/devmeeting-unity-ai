@@ -1,0 +1,11 @@
+{
+    "asset": "3b774e8140502ab458891fc5325c3c40",
+    "fileName": "0197f403-fa85-72ae-a635-ba6c6001efb6_Preview.png",
+    "prompt": "Cartoon glass with transparency",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1730484831,
+    "w3CTraceId": "7bfab5b39b6eae9ac248cadffb14a294",
+    "refinementMode": "Generation"
+}

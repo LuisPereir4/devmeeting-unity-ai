@@ -1,0 +1,20 @@
+{
+    "asset": "d6e652534f900af42bd786a870a5c24e",
+    "fileName": "0197f3f2-e3ba-72d6-b17d-0e54f8c9e90c.jpg",
+    "prompt": "Cartoon colorful texture",
+    "negativePrompt": "",
+    "model": "57ebc7c8-977d-41fb-8263-bfd5fa55e2f4",
+    "modelName": "3D Blocky Elements",
+    "customSeed": -1,
+    "w3CTraceId": "3f4da5d5af456444a037d5babb390b08",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

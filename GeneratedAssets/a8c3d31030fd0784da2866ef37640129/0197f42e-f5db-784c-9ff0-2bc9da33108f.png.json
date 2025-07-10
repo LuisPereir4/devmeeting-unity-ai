@@ -1,0 +1,20 @@
+{
+    "asset": "a8c3d31030fd0784da2866ef37640129",
+    "fileName": "0197f42e-f5db-784c-9ff0-2bc9da33108f.png",
+    "prompt": "Eggplant",
+    "negativePrompt": "",
+    "model": "13bca937-0bfb-49ec-b5e3-b1bcf88846a1",
+    "modelName": "Illustrated Food Icons",
+    "customSeed": -1,
+    "w3CTraceId": "49ae39ff7f4248a16c766e1381e6a0f6",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

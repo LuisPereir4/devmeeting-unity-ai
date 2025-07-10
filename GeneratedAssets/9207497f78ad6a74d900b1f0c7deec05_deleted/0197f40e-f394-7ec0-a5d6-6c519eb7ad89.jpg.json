@@ -1,0 +1,20 @@
+{
+    "asset": "9207497f78ad6a74d900b1f0c7deec05",
+    "fileName": "0197f40e-f394-7ec0-a5d6-6c519eb7ad89.jpg",
+    "prompt": "Wild West cartoon aesthetic button frame, transparent background",
+    "negativePrompt": "",
+    "model": "072fd6c7-1a92-4d41-b504-c46546b0dd28",
+    "modelName": "Game UI Essentials",
+    "customSeed": -1,
+    "w3CTraceId": "71515e3384549da035fce0405ee10812",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

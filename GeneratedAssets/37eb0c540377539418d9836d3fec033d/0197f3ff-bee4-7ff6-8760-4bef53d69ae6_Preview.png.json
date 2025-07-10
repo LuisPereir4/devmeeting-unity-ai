@@ -1,0 +1,11 @@
+{
+    "asset": "37eb0c540377539418d9836d3fec033d",
+    "fileName": "0197f3ff-bee4-7ff6-8760-4bef53d69ae6_Preview.png",
+    "prompt": "Fluffy surface with fur",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1808254705,
+    "w3CTraceId": "d8527cf8c6bf3d0ef688c07d042e1f01",
+    "refinementMode": "Generation"
+}

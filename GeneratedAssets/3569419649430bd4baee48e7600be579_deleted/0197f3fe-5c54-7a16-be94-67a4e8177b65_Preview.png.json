@@ -1,0 +1,11 @@
+{
+    "asset": "3569419649430bd4baee48e7600be579",
+    "fileName": "0197f3fe-5c54-7a16-be94-67a4e8177b65_Preview.png",
+    "prompt": "Metal surface with a lot of details",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1247026790,
+    "w3CTraceId": "e933becbb0601ae6fcf271b1da35e72d",
+    "refinementMode": "Generation"
+}

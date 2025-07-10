@@ -1,0 +1,11 @@
+{
+    "asset": "b8a1df2e2a030524088d3d9096883221",
+    "fileName": "0197f405-ff95-7d01-86ce-ad7437747829_Preview.png",
+    "prompt": "Realistic metal seamless",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1510320702,
+    "w3CTraceId": "1495120abd8847f12eefa560ae1e2a8b",
+    "refinementMode": "Generation"
+}
