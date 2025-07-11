@@ -1,0 +1,13 @@
+{
+    "asset": "683692a656b130d4d82fe848e076f91b",
+    "fileName": "0197f95b-dc0a-7288-8137-15bc66b0d8aa.wav",
+    "prompt": "UI button click",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "840d982efe6709a261edacbe92ee6bc9",
+    "duration": 1.0,
+    "autoTrim": true,
+    "hasReference": false
+}

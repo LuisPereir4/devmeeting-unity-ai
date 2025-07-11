@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 5a0c7be6a17a06a4ea0a6e56ddbfdf44
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable:
+  - first:
+      74: 6720303635017113406
+    second: Attack
+  - first:
+      74: 7364867206095895631
+    second: AxeBattleIn
+  - first:
+      74: 5351749137167393642
+    second: AxeBattleLoop
+  - first:
+      74: 6658588569699003605
+    second: AxeBattleOut
+  - first:
+      74: 6198196035574855337
+    second: AxeBattleOutDying
+  - first:
+      74: 7489253537630212219
+    second: ClosingVisor
+  - first:
+      74: 4348485665485846014
+    second: Death
+  - first:
+      74: 8763770076563414043
+    second: Defeat
+  - first:
+      74: -2764113117291046929
+    second: GettingReady
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: -8880534733710931441
+    second: IdleNoVisor
+  - first:
+      74: -6092881614667523733
+    second: PullingIn
+  - first:
+      74: -5654587348029966510
+    second: PullingLoop
+  - first:
+      74: -1987199630523389706
+    second: PullingOut
+  - first:
+      74: 5522812681064789136
+    second: Run
+  - first:
+      74: -3732140633364967302
+    second: Throwing
+  - first:
+      74: 3457733185690741535
+    second: ThrowingIn
+  - first:
+      74: 6181871314562596732
+    second: ThrowingLoop
+  - first:
+      74: -6063007193041057977
+    second: ThrowingOut
+  - first:
+      74: 4423327027776115643
+    second: TurningLeft
+  - first:
+      74: 8588551646284586014
+    second: TurningRight
+  - first:
+      74: 4821609917503249430
+    second: Win
+  - first:
+      74: 4723146814002874508
+    second: Armature|Attack
+  - first:
+      74: -6680690977543089334
+    second: Armature|AxeBattleIn
+  - first:
+      74: 3409085568942561758
+    second: Armature|AxeBattleLoop
+  - first:
+      74: -5439547607834775014
+    second: Armature|AxeBattleOut
+  - first:
+      74: -4143746783014099645
+    second: Armature|AxeBattleOutDying
+  - first:
+      74: -982115091633673366
+    second: Armature|Death
+  - first:
+      74: -2400833351189193328
+    second: Armature|Defeat
+  - first:
+      74: 1017687529784286241
+    second: Armature|GettingReady
+  - first:
+      74: -5136800161239093119
+    second: Armature|PullingIn
+  - first:
+      74: 2370865798415280585
+    second: Armature|PullingLoop
+  - first:
+      74: -1395230012879812141
+    second: Armature|PullingOut
+  - first:
+      74: -7551964380084998518
+    second: Armature|Run
+  - first:
+      74: 6777636951388915858
+    second: Armature|Throwing
+  - first:
+      74: -1456925292046572462
+    second: Armature|ThrowingIn
+  - first:
+      74: 8955465344300040889
+    second: Armature|ThrowingLoop
+  - first:
+      74: -7544647674782941962
+    second: Armature|ThrowingOut
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color Base.006
+    second: {fileID: 2100000, guid: dc0fab1c634025a4f9a3bc9b8a646673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face.004
+    second: {fileID: 2100000, guid: e2f6547a53258bb4d895e98d209b208a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+{
+    "asset": "12a1a7eb06e5c6a4fb6cef0fba6f4be2",
+    "fileName": "0197f939-df00-7375-b356-8dbf1f0863e8.pose.json",
+    "prompt": "Crying",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1967854712,
+    "w3CTraceId": "bf86944d04a25988be2dece7f3ce46d0"
+}

@@ -1,0 +1,13 @@
+{
+    "asset": "90808d1d35999ee49a8de25d60a2dcc6",
+    "fileName": "0197f95e-6158-7a41-bf71-8103ca004325.wav",
+    "prompt": "Character dying",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "719028f212ab1fb5c85e4ae59eedef2c",
+    "duration": 0.000022675736545352265,
+    "autoTrim": true,
+    "hasReference": true
+}
